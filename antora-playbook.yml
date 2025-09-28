@@ -1,6 +1,7 @@
 site:
   title: Docs Site
   start_page: component-b::index.adoc
+  url: https://mojavelinux.github.io/github-pages-test
 content:
   sources:
   - url: https://gitlab.com/antora/demo/demo-component-a.git
